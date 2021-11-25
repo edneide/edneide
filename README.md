@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Edneide Ramalho 👋
+- 🔭 I’m currently working on the emergence response on COVID-19 as part of my posdoc project, doing data analysis and building dashboards
+- 🌱 I’m currently learning Data Science and how to apply the concepts and algorithms in different fields.
+- 💬 Ask me about R and RStudio Programming and Statistical Analysis. I'm a freelancer consultant and can help you on your analysis for scientific papers and reasearch in general
+- 😄 Pronouns: she/her
 
-<!--
-**edneide/edneide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 How to reach me: 
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edneide-ramalho-05054ba2/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tools
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white) 
+
+
+
