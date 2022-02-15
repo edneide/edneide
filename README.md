@@ -10,12 +10,12 @@
 
 
 
-## Tools
+## 💻 Tools
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white) 
 
 
 
-## Portfolio
+## 👩‍💻 Portfolio
 This is my data science project portfolio, where you can find the projects I am working on. 
 https://edneide.github.io/portfolio_projetos/
 
