@@ -1,8 +1,10 @@
 ### Hi there, I'm Edneide Ramalho 👋
-- 🔭 I’m currently working on the emergence response on COVID-19 as part of my posdoc project, doing data analysis and building dashboards
-- 🌱 I’m currently learning Data Science and how to apply the concepts and algorithms in different fields.
-- 💬 Ask me about R and RStudio Programming and Statistical Analysis. I'm a freelancer consultant and can help you on your analysis for scientific papers and reasearch in general
-- 😄 Pronouns: she/her
+
+- 💻 I am a Data Scientist and Analyst, and also a freelancer Statistical Consultant.
+- 📊 I am passionate about solving problems with data, generate value, and important insights.
+- 🤓 I have experience working with R an Python programming languages by solving different problems, from RShiny dashboards to follow-up COVID-19 cases to recommender systems in retail company.
+- 📫 Fell free to reach me! 
+
 
 # 📫 How to reach me: 
 
@@ -21,7 +23,7 @@
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 # 👩‍💻 Portfolio
 This is my data science project portfolio, where you can find the projects I am working on. 
